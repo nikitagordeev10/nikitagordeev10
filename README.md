@@ -1,6 +1,5 @@
 # Никита Гордеев
 **1С разработчик | Python разработчик**  
-[GitHub: nikitagordeev10](https://github.com/nikitagordeev10)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitagordeev10&show_icons=true&theme=radical)](https://github.com/nikitagordeev10)
 
