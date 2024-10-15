@@ -1,38 +1,48 @@
-## Hi there 👋
+# Никита Гордеев
+**1С разработчик | Python разработчик**  
+[GitHub: nikitagordeev10](https://github.com/nikitagordeev10)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitagordeev10&show_icons=true&theme=radical)](https://github.com/nikitagordeev10)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitagordeev10&show_icons=true&theme=radical) 
+---
 
+## Обо мне
+Программист с опытом разработки в различных сферах, включая:
+- Искусственный интеллект (ИИ)
+- Виртуальная и дополненная реальность (VR/AR)
+- Разработка программного обеспечения для беспилотных летательных аппаратов
+- Информационная безопасность
+
+---
+
+## Технические навыки
+
+### Языки программирования:
+- **Основные**: 1С, Python  
+- **Дополнительные**: C, C++, Java, C#, HTML, CSS, JS, PHP, Dart
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Операционные системы:
+- Linux
+- Android
+- Аврора ОС
 
-![](https://leetcode.card.workers.dev/nikitagordeev10?theme=auto&font=baloo&extension=null)
+### Инструменты и технологии:
+- Docker, Kubernetes
+- Git, CI/CD
+- SQL, NoSQL
+- RESTful API
+- Базы данных (PostgreSQL, MySQL)
 
-Прочитанные книги:
+---
 
-Работал с 
-фронтенд ( ) 
-бекенд ( )
-ИИ (python, keras, numpy)
+## Решение задач на LeetCode
 
-языками C, C++, Java, C#, PHP, Linux, Android, Flutter, Dart. 
-.Участвовал в хакатонах по искусственному интеллекуту.  
-VR/AR, комп зрение, беспилотные летательные аппараты. 
-информационной безопастности.
+![LeetCode Stats](https://leetcode.card.workers.dev/nikitagordeev10?theme=auto&font=baloo&extension=null)
 
+---
 
-<!--
-**nikitagordeev10/nikitagordeev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+- **Email**: nikitagordeev10@yandex.ru
+- **Telegram**: https://t.me/nikitagordeev10
