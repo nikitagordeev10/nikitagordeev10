@@ -24,6 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Операционные системы:
+- Windows
 - Linux
 - Android
 - Аврора ОС
