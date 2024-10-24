@@ -20,7 +20,7 @@
 - **Основные**: 1С, Python  
 - **Дополнительные**: C, C++, Java, C#, HTML, CSS, JS, PHP, Dart
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=8)
 
 ### Операционные системы:
 - Windows
