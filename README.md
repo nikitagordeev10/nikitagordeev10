@@ -1,7 +1,7 @@
 # Никита Гордеев
 **1С разработчик | Web-разработчик**  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitagordeev10&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitagordeev10&show_icons=true&theme=dark)
 
 ---
 
@@ -24,7 +24,7 @@
 - **Основные**: 1С, Python  
 - **Дополнительные**: C, C++, Java, C#, HTML, CSS, JS, PHP, Dart
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=15&theme=dark)
 
 ### Операционные системы:
 - Windows
@@ -43,7 +43,7 @@
 
 ## Решение задач на LeetCode
 
-![LeetCode Stats](https://leetcode.card.workers.dev/nikitagordeev10?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/nikitagordeev10?theme=dark&font=baloo&extension=null)
 
 ---
 
