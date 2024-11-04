@@ -49,5 +49,5 @@
 - **Основные**: 1С, Python  
 - **Дополнительные**: Java, C, C++, C#, HTML, CSS, JS, PHP, Dart
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=15&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=10&theme=dark)
 
