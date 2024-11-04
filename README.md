@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitagordeev10&show_icons=true&theme=dark)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10\&repo=petrsu_final_qualification_work_001_dispatcher_information_system&theme=dark) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10\&repo=petrsu_basic_1c_003_testing_shveix&theme=dark)
 ---
 
 ## Обо мне
