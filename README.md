@@ -3,9 +3,21 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitagordeev10&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10\&repo=petrsu_final_qualification_work_001_dispatcher_information_system&theme=dark)](https://github.com/nikitagordeev10/petrsu_final_qualification_work_001_dispatcher_information_system)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nikitagordeev10/petrsu_final_qualification_work_001_dispatcher_information_system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu_final_qualification_work_001_dispatcher_information_system&theme=dark" alt="Проект 1" style="display: block; width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nikitagordeev10/petrsu_basic_1c_003_testing_shveix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu_basic_1c_003_testing_shveix&theme=dark" alt="Проект 2" style="display: block; width: 100%;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10\&repo=petrsu_basic_1c_003_testing_shveix&theme=dark)](https://github.com/nikitagordeev10/petrsu_basic_1c_003_testing_shveix)
 ---
 
 ## Обо мне
