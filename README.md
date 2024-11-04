@@ -1,8 +1,7 @@
-# Никита Гордеев — 1С Разработчик
-
----
-
 ## Обо мне
+
+### Специальность 
+- 1С Разработчик
 
 ### Контакты  
 - **Email**: [nikitagordeev10@yandex.ru](mailto:nikitagordeev10@yandex.ru)
