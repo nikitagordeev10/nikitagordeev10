@@ -8,20 +8,21 @@
 
 ## Проекты
 
-<table>
-  <tr>
-    <td>
+<table style="width: 100%; table-layout: fixed;">
+  <tr style="display: flex; flex-direction: row; flex-wrap: wrap;">
+    <td style="flex: 1; min-width: 300px; padding: 10px;">
       <a href="https://github.com/nikitagordeev10/petrsu_final_qualification_work_001_dispatcher_information_system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu_final_qualification_work_001_dispatcher_information_system&theme=dark" alt="Проект 1" style="display: block; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu_final_qualification_work_001_dispatcher_information_system&theme=dark" alt="Проект 1" style="width: 100%;">
       </a>
     </td>
-    <td>
+    <td style="flex: 1; min-width: 300px; padding: 10px;">
       <a href="https://github.com/nikitagordeev10/petrsu_basic_1c_003_testing_shveix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu_basic_1c_003_testing_shveix&theme=dark" alt="Проект 2" style="display: block; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu_basic_1c_003_testing_shveix&theme=dark" alt="Проект 2" style="width: 100%;">
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
