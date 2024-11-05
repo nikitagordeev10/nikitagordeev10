@@ -26,7 +26,5 @@
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/nikitagordeev10?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/nikitagordeev10/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitagordeev10&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=15&theme=dark&layout=compact)
 
