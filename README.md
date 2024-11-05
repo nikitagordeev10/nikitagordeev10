@@ -21,11 +21,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
-
-## Github Stats
-![Metrics](/github-metrics.svg)
-
 
 ## Статистики
 
@@ -35,7 +30,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=15&theme=dark&layout=compact)
 
-
-
-
----
