@@ -1,30 +1,30 @@
-## Обо мне
+## Привет 👋
+Я 1С разработчик, в настоящее время работаю в []().
 
-### Специальность 
-- 1С Разработчик
+Как связаться со мной: Отправьте электронное письмо по адресу [nikitagordeev10@yandex.ru](mailto:nikitagordeev10@yandex.ru)
 
-### Контакты  
-- **Email**: [nikitagordeev10@yandex.ru](mailto:nikitagordeev10@yandex.ru)
+Мое образование: бакалавриат по направлению «Программная инженерия» (09.03.04)
 
-### Теория
-- Математика: Математический анализ, линейная алгебра, дискретная математика
-- Безопасность: Информационная безопасность, тестирование ПО
-- ИИ и VR/AR: Разработка и оптимизация решений с элементами ИИ, работа с VR/AR
+## Мой стек технологий
 
-### Технологии
-- **Контейнеризация**: Docker, Kubernetes
-- **Контроль версий**: Git, CI/CD
-- **Базы данных**: SQL, NoSQL (PostgreSQL, MySQL)
-- **API**: RESTful
+![](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-### Операционные системы
-- Windows, Linux, Android, Аврора ОС
+![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Языки программирования
-- **Основные**: 1С, Python  
-- **Дополнительные**: Java, C, C++, C#, HTML, CSS, JS, PHP, Dart
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
+
+## Github Stats
+![Metrics](/github-metrics.svg)
 
 
 ## Статистики
