@@ -27,4 +27,3 @@
 [![LeetCode Stats](https://leetcode.card.workers.dev/nikitagordeev10?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/nikitagordeev10/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=15&theme=dark&layout=compact)
-
