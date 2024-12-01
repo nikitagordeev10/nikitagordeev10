@@ -32,11 +32,17 @@
     <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-005-test-program">Программа и методика испытаний</a></td>
     <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport">Паспорт</a></td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-dispatcher-information-system">Программа</a></td>
     <td><a href="https://github.com/nikitagordeev10/petrsu-software-verification">Верификация</a></td>
   </tr>
-  <tr>
+</table>
+
+<table>
+    <tr>
     <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">ВКР отчет</a></td>
     <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">ВКР презентация</a></td>
   </tr>
