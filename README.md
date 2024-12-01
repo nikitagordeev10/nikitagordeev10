@@ -49,6 +49,32 @@
     <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">Проект технического задания на разработку</a></td>
 </table>
 
+Предприятие по производству велосипедов
+<table>
+    <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-001-idef0">IDEF0</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-002-business-requirements">Бизнес-требования</a></td>
+  </tr>
+      <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-003-function-tree">Дерево функций</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-004-user-interface">Интерфейс пользователя</a></td>
+  </tr>
+      <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-005-relational-database">Реляционная база данных</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-006-specification-functions">Спецификация функций</a></td>
+  </tr>
+      <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-007-scenario-diagram">Диаграмма прецедентов</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-008-class-diagram">Диаграмма классов</a></td>
+  </tr>
+      <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-009-activity-diagram">Диаграмма деятельности</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-010-sequence-diagram">Диаграмма последовательности</a></td>
+  </tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-011-component-diagram">Диаграмма компонентов</a></td>
+
+</table>
+
 
 ## Статистики
 
