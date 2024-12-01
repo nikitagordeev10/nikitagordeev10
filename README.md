@@ -17,19 +17,31 @@
 | **Операционные системы** | ![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white) ![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white) |
 | **Языки** | ![1C](https://img.shields.io/badge/-1C-gray?style=for-the-badge&logo=1C&logoColor=white) ![sql](https://img.shields.io/badge/-sql-gray?style=for-the-badge&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white)|
 
-## Демонстрационный проект "Система управления транспортной логистикой"
-[![Описание предметной области](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-001-domain-model&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-001-domain-model)
-[![Техническое задание](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-002-technical-task&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-002-technical-task)
-[![Общее описание системы](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-003-general-system-description&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-003-general-system-description)
-[![Руководство пользователя](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-004-user-manual&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-004-user-manual)
-[![Программа и методика испытаний](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-005-test-program&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-005-test-program)
-[![Паспорт](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-006-program-passport&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport)
+## Демонстрационный проект "Система управления транспортной логистикой" (будет готов к маю 2025)
 
-[![Программа](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-006-program-passport&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport)
-[![Верификация ПО](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-006-program-passport&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport)
+<table>
+  <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-001-domain-mode">Описание предметной области</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-002-technical-task">Техническое задание</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-003-general-system-description">Общее описание системы</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-004-user-manual">Руководство пользователя</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-005-test-program">Программа и методика испытаний</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport">Паспорт</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-dispatcher-information-system">Программа</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-software-verification">Верификация</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">ВКР отчет</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">ВКР презентация</a></td>
+  </tr>
+</table>
 
-[![ВКР отчет](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-006-program-passport&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport)
-[![ВКР презентация](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-006-program-passport&layout=compact)](https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport)
 
 ## Статистики
 
