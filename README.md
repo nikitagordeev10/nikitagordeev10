@@ -17,8 +17,9 @@
 | **Операционные системы** | ![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white) ![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white) |
 | **Языки** | ![1C](https://img.shields.io/badge/-1C-gray?style=for-the-badge&logo=1C&logoColor=white) ![sql](https://img.shields.io/badge/-sql-gray?style=for-the-badge&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white)|
 
-## Демонстрационный проект "Система управления транспортной логистикой" (будет готов к маю 2025)
+## Мои демонстрационные проекты
 
+"Система управления транспортной логистикой" (будет готов к маю 2025)
 <table>
   <tr>
     <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-001-domain-mode">Описание предметной области</a></td>
@@ -32,20 +33,20 @@
     <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-005-test-program">Программа и методика испытаний</a></td>
     <td><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport">Паспорт</a></td>
   </tr>
-</table>
-
-<table>
-  <tr>
+    <tr>
     <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-dispatcher-information-system">Программа</a></td>
     <td><a href="https://github.com/nikitagordeev10/petrsu-software-verification">Верификация</a></td>
   </tr>
-</table>
-
-<table>
     <tr>
     <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">ВКР отчет</a></td>
     <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">ВКР презентация</a></td>
   </tr>
+</table>
+
+Трубо-дорожный контроль
+<table>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">Отчет об обследовании</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">Проект технического задания на разработку</a></td>
 </table>
 
 
