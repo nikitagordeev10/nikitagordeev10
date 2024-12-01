@@ -17,6 +17,14 @@
 | **Операционные системы** | ![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white) ![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white) |
 | **Языки** | ![1C](https://img.shields.io/badge/-1C-gray?style=for-the-badge&logo=1C&logoColor=white) ![sql](https://img.shields.io/badge/-sql-gray?style=for-the-badge&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white)|
 
+## Мои проекты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-001-domain-model)](https://github.com/nikitagordeev10/petrsu-software-standardization-001-domain-model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-002-technical-task)](https://github.com/nikitagordeev10/petrsu-software-standardization-002-technical-task)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-003-general-system-description)](https://github.com/nikitagordeev10/petrsu-software-standardization-003-general-system-description)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-004-user-manual)](https://github.com/nikitagordeev10/petrsu-software-standardization-004-user-manual)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-005-test-program)](https://github.com/nikitagordeev10/petrsu-software-standardization-005-test-program)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitagordeev10&repo=petrsu-software-standardization-006-program-passport)](https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport)
+
 ## Статистики
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/nikitagordeev10?theme=light)](https://leetcode.com/u/nikitagordeev10/)
