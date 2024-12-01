@@ -49,6 +49,23 @@
     <td><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">2. Проект технического задания на разработку</a></td>
 </table>
 
+Предприятие по ремонту бытовой техники
+<table>
+  <tr>
+    <td><a href="О бизнесе">1. О бизнесе</a></td>
+    <td><a href="Руководство по защите информации">2. Руководство по защите информации</a></td>
+  </tr>
+      <tr>
+    <td><a href="Перечень конфиденциальной информации">3. Перечень конфиденциальной информации</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-004-user-interface">4. Инструкции по защите данных сотрудников</a></td>
+  </tr>
+      <tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-005-relational-database">5. Акт классификации АС</a></td>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-006-specification-functions">6. Автоматизированные рабочие места</a></td>
+  </tr>
+    <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-007-scenario-diagram">7. Аналитическое обоснование на разработку системы защиты</a></td>
+</table>
+
 Предприятие по производству велосипедов
 <table>
     <tr>
@@ -72,7 +89,6 @@
     <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-010-sequence-diagram">10. Диаграмма последовательности</a></td>
   </tr>
     <td><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-011-component-diagram">11. Диаграмма компонентов</a></td>
-
 </table>
 
 
