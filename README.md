@@ -14,6 +14,7 @@
 
 | Тип стека | Элементы |
 | ---------- | -------- |
+| **Управление проектами** | ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-gray?style=for-the-badge&logo=Microsoft%20Project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-gray.svg?style=for-the-badge&logo=Trello&logoColor=white) |
 | **Документация** |  ![Latex](https://img.shields.io/badge/-latex-gray?style=for-the-badge&logo=latex&logoColor=white) ![Ramus](https://img.shields.io/badge/-ramus-gray?style=for-the-badge&logo=ramus&logoColor=white) ![Ramus](https://img.shields.io/badge/-miro-gray?style=for-the-badge&logo=MIRO&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-gray?style=for-the-badge&logo=microsoft-office&logoColor=white) | 
 | **Дизайн** | ![figma](https://img.shields.io/badge/-figma-gray?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/adobe%20photoshop%20-gray.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
 | **Среда разработки** | ![Конфигуратор ](https://img.shields.io/badge/-Конфигуратор-gray?style=for-the-badge&logo=Конфигуратор&logoColor=white) ![1C](https://img.shields.io/badge/-1С:EDT-gray?style=for-the-badge&logo=1С:EDT&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-gray.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  |
