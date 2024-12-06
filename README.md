@@ -27,7 +27,7 @@
 
 ## Мои демонстрационные проекты
 
-"Система управления транспортной логистикой" (будет готов к маю 2025)
+Выпускная квалификационная работа "Разработка ИС диспетчера по транспорту на платформе 1С:Предприятие 8.3" (будет готов к маю 2025)
 <table>
   <tr>
     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-001-domain-mode">1. Описание предметной области</a></td>
@@ -56,13 +56,13 @@
 
 </table>
 
-Трубо-дорожный контроль
+Автоматизация управления предприятием "Трубо-дорожный контроль"
 <table>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">1. Отчет об обследовании</a></td>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">2. Проект технического задания на разработку</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-automation-enterprise-management-001-survey-report">1. Отчет об обследовании</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-automation-enterprise-management-002-technical-specifications">2. Проект технического задания на разработку</a></td>
 </table>
 
-Предприятие по ремонту бытовой техники
+Организационное обеспечение информационной безопасности "Предприятие по ремонту бытовой техники"
 <table>
   <tr>
      <td width="300"><a href="О бизнесе">1. О бизнесе</a></td>
@@ -79,7 +79,7 @@
      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-007-scenario-diagram">7. Аналитическое обоснование на разработку системы защиты</a></td>
 </table>
 
-Предприятие по производству велосипедов
+Проектирование информационных систем "Предприятие по производству велосипедов"
 <table>
     <tr>
     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-001-idef0">1. IDEF0</a></td>
