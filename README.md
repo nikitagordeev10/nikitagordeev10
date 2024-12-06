@@ -44,10 +44,10 @@
   </tr>
     <tr>
     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-dispatcher-information-system">7. Конфигурация АС "Управление логистикой"</a></td>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-verification">8. Конфигурация Бухгалтерия</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-002-automation-dairy-production-enterprise">8. Конфигурация Бухгалтерия</a></td>
   </tr>
     <tr>
-      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">9. Верификация</a></td>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-verification">9. Верификация</a></td>
       <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">10. ВКР отчет</a></td>
   </tr>
   </tr>
@@ -66,18 +66,18 @@
 Организационное обеспечение информационной безопасности "Предприятие по ремонту бытовой техники"
 <table>
   <tr>
-     <td width="300"><a href="О бизнесе">1. О бизнесе</a></td>
-     <td width="300"><a href="Руководство по защите информации">2. Руководство по защите информации</a></td>
+     <td width="300"><a href="petrsu-information-security-provision-001-about">1. О бизнесе</a></td>
+     <td width="300"><a href="petrsu-information-security-provision-002-security-guide">2. Руководство по защите информации</a></td>
   </tr>
       <tr>
-     <td width="300"><a href="Перечень конфиденциальной информации">3. Перечень конфиденциальной информации</a></td>
-     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-004-user-interface">4. Инструкции по защите данных сотрудников</a></td>
+     <td width="300"><a href="petrsu-information-security-provision-003-list-confidential-information">3. Перечень конфиденциальной информации</a></td>
+     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-information-security-provision-004-employee-data-protection">4. Инструкции по защите данных сотрудников</a></td>
   </tr>
       <tr>
-     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-005-relational-database">5. Акт классификации АС</a></td>
-     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-006-specification-functions">6. Автоматизированные рабочие места</a></td>
+     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-information-security-provision-005-classification-act">5. Акт классификации АС</a></td>
+     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-information-security-provision-006-automated-workstations">6. Автоматизированные рабочие места</a></td>
   </tr>
-     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-007-scenario-diagram">7. Аналитическое обоснование на разработку системы защиты</a></td>
+     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-information-security-provision-007-development-rationale">7. Аналитическое обоснование на разработку системы защиты</a></td>
 </table>
 
 Проектирование информационных систем "Предприятие по производству велосипедов"
