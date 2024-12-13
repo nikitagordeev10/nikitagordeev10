@@ -45,18 +45,15 @@
     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport">6. Паспорт</a></td>
   </tr>
     <tr>
-    <td width="600"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-dispatcher-information-system">7. Конфигурация АС "Управление логистикой"</a></td>
-  </tr>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-dispatcher-information-system">7. Конфигурация АС "Управление логистикой"</a></td>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">8. ВКР отчет</a></td>
+    </tr>
     <tr>
-      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-verification">9. Верификация</a></td>
-      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">10. ВКР отчет</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">9. ВКР презентация</a></td>
   </tr>
-  </tr>
-    <tr>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">11. ВКР презентация</a></td>
-  </tr>
+</table>
 
-Выпускная квалификационная работа "Бухгалтерия молочного производства на платформе 1С:Предприятие 8.3"\
+Конфигурация "Бухгалтерия молочного производства на платформе 1С:Предприятие 8.3"\
 (будет готова к 23 декабря 2024)
 </table>
   </tr>
