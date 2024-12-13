@@ -55,10 +55,10 @@
 
 Конфигурация "Бухгалтерия молочного производства на платформе 1С:Предприятие 8.3"\
 (будет готова к 23 декабря 2024)
-</table>
+<table>
   </tr>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-002-automation-dairy-production-enterprise">1. Конфигурация Бухгалтерия</a></td>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-002-automation-dairy-production-enterprise">2. Верификация</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-001-automation-repair-and-maintenance-industrial-robots">1. Конфигурация Бухгалтерия</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-verification">2. Верификация</a></td>
   </tr>
 </table>
 
