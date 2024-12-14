@@ -46,10 +46,10 @@
   </tr>
     <tr>
       <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-002-003-dispatcher-information-system">7. Конфигурация</a></td>
-      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">8. ВКР отчет</a></td>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-report">8. ВКР отчет</a></td>
     </tr>
     <tr>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-003-presentation">9. ВКР презентация</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-presentation">9. ВКР презентация</a></td>
   </tr>
 </table>
 
