@@ -45,7 +45,7 @@
     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport">6. Паспорт</a></td>
   </tr>
     <tr>
-      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-dispatcher-information-system">7. Конфигурация</a></td>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-002-003-dispatcher-information-system">7. Конфигурация</a></td>
       <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-report">8. ВКР отчет</a></td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
 (будет готова к 23 декабря 2024)
 <table>
   </tr>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-001-automation-repair-and-maintenance-industrial-robots">1. Конфигурация</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-002-dairy-production-trade-management">1. Конфигурация</a></td>
     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-verification">2. Верификация</a></td>
   </tr>
 </table>
