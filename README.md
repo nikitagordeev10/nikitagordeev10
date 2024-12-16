@@ -33,7 +33,7 @@
 (будет готова к маю 2025)
 <table>
   <tr>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-001-domain-mode">1. Описание предметной области</a></td>
+    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-001-domain-model">1. Описание предметной области</a></td>
     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-002-technical-task">2. Техническое задание</a></td>
   </tr>
   <tr>
