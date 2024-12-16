@@ -45,11 +45,12 @@
     <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport">6. Паспорт</a></td>
   </tr>
     <tr>
-      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-002-003-dispatcher-information-system">7. Конфигурация</a></td>
-      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-report">8. ВКР отчет</a></td>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-003-dairy-production-logistics-management">7. Конфигурация «Управление логистикой»</a></td>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-basic-1c-004-dairy-production-delivery-driver">8. Конфигурация «Водитель-развозчик»</a></td>
     </tr>
     <tr>
-    <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-presentation">9. ВКР презентация</a></td>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-001-report">9. ВКР отчет</a></td>
+      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-final-qualification-work-002-presentation">10. ВКР презентация</a></td>
   </tr>
 </table>
 
