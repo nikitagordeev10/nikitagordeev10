@@ -125,6 +125,6 @@
 
 ## Статистики
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/nikitagordeev10?theme=light)](https://leetcode.com/u/nikitagordeev10/)
+![ Stats](https://leetcode-status.vercel.app/api/card/nikitagordeev10?theme=light&hide_title=false&custom_title=)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=100&theme=transparent&layout=compact)
