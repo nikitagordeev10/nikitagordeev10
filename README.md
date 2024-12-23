@@ -38,6 +38,7 @@
 | **API** |  ![Apache](https://img.shields.io/badge/apache-gray.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-gray.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-gray?style=for-the-badge&logo=Swagger&logoColor=white)  | 
 -->
 
+<!---
 ## Мои демонстрационные проекты
 
 Выпускная квалификационная работа "Разработка ИС диспетчера по транспорту на платформе 1С:Предприятие 8.3"\
@@ -121,7 +122,7 @@
   </tr>
      <td width="300"><a href="https://github.com/nikitagordeev10/petrsu-design-information-systems-011-component-diagram">11. Диаграмма компонентов</a></td>
 </table>
-
+-->
 
 ## Статистики
 
