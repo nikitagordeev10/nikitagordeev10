@@ -3,23 +3,7 @@
 
 Мое образование: бакалавриат по направлению «Программная инженерия» (09.03.04)
 
-<!---
-
-Мои контакты:
-<table>
-  <tr>
-     <td width="300"><a href="nikitagordeev10@yandex.ru">Электронная почта</a></td>
-     <td width="300"><a href="petrsu-information-security-provision-002-security-guide">Резюме</a></td>
-  </tr>
-  <tr>
-     <td width="300"><a href="https://vk.com/nikitagordeev10">Блог VK</a></td>
-     <td width="300"><a href="https://www.behance.net/nikitagordeev10">Портфолио Behance</a></td>
-  </tr>
-</table>
-
--->
-
-
+Проекты по дизайну: [Behance](https://www.behance.net/nikitagordeev10)
 
 ## Мой стек технологий
 
