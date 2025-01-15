@@ -32,7 +32,8 @@
 | **СУБД** |  ![MySQL](https://img.shields.io/badge/mysql-gray.svg?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-gray?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
 | **Операционные системы** | ![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white)  |
 | **Языки** | ![1C](https://img.shields.io/badge/-1C-gray?style=for-the-badge&logo=1C&logoColor=white) ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white) ![sql](https://img.shields.io/badge/-sql-gray?style=for-the-badge&logo=sql&logoColor=white) |
-| **Нейросети** | ![ChatGPT](https://img.shields.io/badge/chatGPT-gray?style=for-the-badge&logo=openai&logoColor=white)|
+| **Нейросети** | ![ChatGPT](https://img.shields.io/badge/chatGPT-gray?style=for-the-badge&logo=openai&logoColor=white) ![Шедеврум](https://img.shields.io/badge/-Шедеврум-gray?style=for-the-badge&logo=Шедеврум&logoColor=white)|
+
 
 <!---
 | **API** |  ![Apache](https://img.shields.io/badge/apache-gray.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-gray.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-gray?style=for-the-badge&logo=Swagger&logoColor=white)  | 
