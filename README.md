@@ -24,7 +24,7 @@
 | Тип языка | Язык |
 | ---------- | -------- |
 | **Естественные** | ![Русский](https://img.shields.io/badge/-русский-gray?style=for-the-badge&logo=русский&logoColor=white) ![Английский](https://img.shields.io/badge/-Английский-gray?style=for-the-badge&logo=Английский&logoColor=white) |
-| **Документация** | ![Latex](https://img.shields.io/badge/-latex-gray?style=for-the-badge&logo=latex&logoColor=white) | 
+| **Документация** | ![Latex](https://img.shields.io/badge/-latex-gray?style=for-the-badge&logo=latex&logoColor=white) ![PlantUML](https://img.shields.io/badge/-PlantUML-gray?style=for-the-badge&logo=PlantUML&logoColor=white) | 
 | **Разработка** | ![1C](https://img.shields.io/badge/-1C-gray?style=for-the-badge&logo=1C&logoColor=white) ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white) |
 | **СУБД** | ![sql](https://img.shields.io/badge/-sql-gray?style=for-the-badge&logo=sql&logoColor=white)  |
 
