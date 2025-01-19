@@ -11,7 +11,7 @@
 
 | Тип программы | Программы |
 | ---------- | -------- |
-| **Операционные системы** | ![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white)  |
+| **Операционные системы** | ![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white) ![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white)  |
 | **Управление проектами** | ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-gray?style=for-the-badge&logo=Microsoft%20Project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-gray.svg?style=for-the-badge&logo=Trello&logoColor=white) |
 | **Документация** |  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-gray?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Overleaf](https://img.shields.io/badge/-Overleaf-gray?style=for-the-badge&logo=Overleaf&logoColor=white) ![draw.io](https://img.shields.io/badge/-draw.io-gray?style=for-the-badge&logo=draw.io&logoColor=white)  | 
 | **Дизайн** | ![figma](https://img.shields.io/badge/-figma-gray?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/adobe%20photoshop%20-gray.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
