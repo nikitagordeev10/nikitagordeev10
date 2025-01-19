@@ -16,7 +16,7 @@
 | **Документация** |  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-gray?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Overleaf](https://img.shields.io/badge/-Overleaf-gray?style=for-the-badge&logo=Overleaf&logoColor=white) ![draw.io](https://img.shields.io/badge/-draw.io-gray?style=for-the-badge&logo=draw.io&logoColor=white)  | 
 | **Дизайн** | ![figma](https://img.shields.io/badge/-figma-gray?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/adobe%20photoshop%20-gray.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
 | **Среда разработки** | ![Конфигуратор ](https://img.shields.io/badge/-Конфигуратор-gray?style=for-the-badge&logo=Конфигуратор&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-gray.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![1C](https://img.shields.io/badge/-1С:EDT-gray?style=for-the-badge&logo=1С:EDT&logoColor=white)  |
-| **СУБД** |  ![MySQL](https://img.shields.io/badge/mysql-gray.svg?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-gray?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
+| **СУБД** |  ![](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-gray?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
 | **Нейросети** | ![ChatGPT](https://img.shields.io/badge/chatGPT-gray?style=for-the-badge&logo=openai&logoColor=white) ![Шедеврум](https://img.shields.io/badge/-Шедеврум-gray?style=for-the-badge&logo=Шедеврум&logoColor=white)|
 
 ### Языки, которыми я пользуюсь
@@ -123,4 +123,4 @@
 
 | LeetCode | Наиболее используемые языки |
 |------------------|----------------------|
-| ![LeetCode Status Stats](https://leetcode-status.vercel.app/api/card/nikitagordeev10?theme=light&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=100&theme=transparent&layout=compact&hide_title=true) |
+| ![LeetCode Status Stats](https://leetcode-status.vercel.app/api/card/nikitagordeev10?theme=light&hide_title=true)(https://leetcode.com/u/nikitagordeev10/) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=100&theme=transparent&layout=compact&hide_title=true) |
