@@ -25,10 +25,13 @@
 
 | Тип языка | Язык |
 | ---------- | -------- |
-| **Естественные** | ![Русский](https://img.shields.io/badge/-русский-gray?style=for-the-badge&logo=русский&logoColor=white) ![Английский](https://img.shields.io/badge/-Английский-gray?style=for-the-badge&logo=Английский&logoColor=white) |
-| **Документация** | ![Latex](https://img.shields.io/badge/-latex-gray?style=for-the-badge&logo=latex&logoColor=white) ![PlantUML](https://img.shields.io/badge/-PlantUML-gray?style=for-the-badge&logo=PlantUML&logoColor=white) | 
-| **Разработка** | ![Язык разработки 1C](https://img.shields.io/badge/-Язык%20разработки%201C-gray?style=for-the-badge&logo=Язык%20разработки%201C&logoColor=white) ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white) |
-| **СУБД** | ![Язык запросов 1C](https://img.shields.io/badge/-Язык%20запросов%201C-gray?style=for-the-badge&logo=Язык%20запросов%201C&logoColor=white) ![sql](https://img.shields.io/badge/-sql-gray?style=for-the-badge&logo=sql&logoColor=white)  |
+| **Естественный** | ![Русский](https://img.shields.io/badge/-русский-gray?style=for-the-badge&logo=русский&logoColor=white) ![Английский](https://img.shields.io/badge/-Английский-gray?style=for-the-badge&logo=Английский&logoColor=white) |
+| **Документации** | ![Latex](https://img.shields.io/badge/-latex-gray?style=for-the-badge&logo=latex&logoColor=white) ![PlantUML](https://img.shields.io/badge/-PlantUML-gray?style=for-the-badge&logo=PlantUML&logoColor=white) | 
+| **Разработки** | ![Язык разработки 1C](https://img.shields.io/badge/-Язык%20разработки%201C-gray?style=for-the-badge&logo=Язык%20разработки%201C&logoColor=white) ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white) |
+| **Разметки** | ![HTML](https://img.shields.io/badge/-HTML-gray?style=for-the-badge&logo=HTML&logoColor=white) ![XML ](https://img.shields.io/badge/XML-gray?style=for-the-badge&logo=XML&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-gray?style=for-the-badge&logo=JSON&logoColor=white) |
+| **Запросов** | ![Язык запросов 1C](https://img.shields.io/badge/-Язык%20запросов%201C-gray?style=for-the-badge&logo=Язык%20запросов%201C&logoColor=white) ![sql](https://img.shields.io/badge/-sql-gray?style=for-the-badge&logo=sql&logoColor=white)  |
+| **Тестов** | ![Gherkin](https://img.shields.io/badge/-Gherkin-gray?style=for-the-badge&logo=Gherkin&logoColor=white) |
+| **Скриптовый** | ![Shell](https://img.shields.io/badge/-Shell-gray?style=for-the-badge&logo=Shell&logoColor=white) |
 
 <!---
 | **API** |  ![Apache](https://img.shields.io/badge/apache-gray.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-gray.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-gray?style=for-the-badge&logo=Swagger&logoColor=white)  | 
