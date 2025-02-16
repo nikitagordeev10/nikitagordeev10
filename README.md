@@ -7,35 +7,7 @@
 Резюме: [hh.ru](https://petrozavodsk.hh.ru/resume/bb853621ff0db2dd230039ed1f794563626531)
 -->
 
-## Мой стек технологий
 
-### Программы, которыми я пользуюсь
-
-| Тип программы | Программы |
-| ---------- | -------- |
-| **Операционные системы** | ![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white) ![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white)  |
-| **Управление проектами** | ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-gray?style=for-the-badge&logo=Microsoft%20Project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-gray.svg?style=for-the-badge&logo=Trello&logoColor=white) |
-| **Документация** |  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-gray?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Overleaf](https://img.shields.io/badge/-Overleaf-gray?style=for-the-badge&logo=Overleaf&logoColor=white) ![draw.io](https://img.shields.io/badge/-draw.io-gray?style=for-the-badge&logo=draw.io&logoColor=white)  | 
-| **Дизайн** | ![Figma](https://img.shields.io/badge/-figma-gray?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-gray.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
-| **Среда разработки** | ![Конфигуратор](https://img.shields.io/badge/-Конфигуратор-gray?style=for-the-badge&logo=Конфигуратор&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-gray.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  |
-| **СУБД** | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-gray?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Нейросети** | ![ChatGPT](https://img.shields.io/badge/chatGPT-gray?style=for-the-badge&logo=openai&logoColor=white) ![Шедеврум](https://img.shields.io/badge/-Шедеврум-gray?style=for-the-badge&logo=Шедеврум&logoColor=white)|
-
-### Языки, которыми я пользуюсь
-
-| Тип языка | Язык |
-| ---------- | -------- |
-| **Естественный** | ![Русский](https://img.shields.io/badge/-русский-gray?style=for-the-badge&logo=русский&logoColor=white) ![Английский](https://img.shields.io/badge/-Английский-gray?style=for-the-badge&logo=Английский&logoColor=white) |
-| **Документации** | ![Latex](https://img.shields.io/badge/-latex-gray?style=for-the-badge&logo=latex&logoColor=white) ![PlantUML](https://img.shields.io/badge/-PlantUML-gray?style=for-the-badge&logo=PlantUML&logoColor=white) | 
-| **Разработки** | ![Язык разработки 1C](https://img.shields.io/badge/-Язык%20разработки%201C-gray?style=for-the-badge&logo=Язык%20разработки%201C&logoColor=white) ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white) |
-| **Запросов** | ![Язык запросов 1C](https://img.shields.io/badge/-Язык%20запросов%201C-gray?style=for-the-badge&logo=Язык%20запросов%201C&logoColor=white) ![sql](https://img.shields.io/badge/-sql-gray?style=for-the-badge&logo=sql&logoColor=white)  |
-| **Разметки** | ![HTML](https://img.shields.io/badge/-HTML-gray?style=for-the-badge&logo=HTML&logoColor=white) ![XML](https://img.shields.io/badge/XML-gray?style=for-the-badge&logo=XML&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-gray?style=for-the-badge&logo=JSON&logoColor=white) |
-| **Тестов** | ![Gherkin](https://img.shields.io/badge/-Gherkin-gray?style=for-the-badge&logo=Gherkin&logoColor=white) |
-| **Скриптовый** | ![Shell Script](https://img.shields.io/badge/shell_script-gray?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-
-<!---
-| **API** |  ![Apache](https://img.shields.io/badge/apache-gray.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-gray.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-gray?style=for-the-badge&logo=Swagger&logoColor=white)  | 
--->
 
 <!---
 ## Мои демонстрационные проекты
