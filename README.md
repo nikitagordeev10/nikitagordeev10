@@ -15,6 +15,6 @@
 
 ## Статистики
 
-| LeetCode | Наиболее используемые языки |
-|------------------|----------------------|
-| [![LeetCode Status Stats](https://leetcode-status.vercel.app/api/card/nikitagordeev10?theme=light&hide_title=true)](https://leetcode.com/u/nikitagordeev10/) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagordeev10&langs_count=100&theme=transparent&layout=compact&hide_title=true) |
+| LeetCode  |
+|----------------------------------------|
+| [![LeetCode Status Stats](https://leetcode-status.vercel.app/api/card/nikitagordeev10?theme=light&hide_title=true)](https://leetcode.com/u/nikitagordeev10/) |
