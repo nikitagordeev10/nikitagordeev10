@@ -10,11 +10,11 @@
 (классификация по книге Совершенный код)
 
 Резюме: [hh.ru](https://petrozavodsk.hh.ru/resume/bb853621ff0db2dd230039ed1f794563626531)
--->
-
 
 ## Статистики
 
 | LeetCode  |
 |----------------------------------------|
 | [![LeetCode Status Stats](https://leetcode-status.vercel.app/api/card/nikitagordeev10?theme=light&hide_title=true)](https://leetcode.com/u/nikitagordeev10/) |
+
+-->
